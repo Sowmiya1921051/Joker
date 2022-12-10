@@ -1,0 +1,31 @@
+body{
+    color: rgb(50, 48, 48);
+    background-color: #EDE2EF;
+}
+
+.joke{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background: linear-gradient(#e99aa3,#E2A1EA);
+    padding: 30px;
+    /* //box-shadow: 0 0 8px rgba(0,0,0,0.7); */
+    border-radius: 20px;
+}
+.btn{
+             
+                 
+        background-image: linear-gradient(to right, #ee9ca7 0%, #ffdde1  51%, #ee9ca7  100%);
+        margin: 10px;
+        padding: 10px 35px;
+        text-align: center;
+        background-size: 200% auto;           
+        border-radius: 10px;
+        border-color: #e99aa3;
+        color: purple;
+}
+
+.cata{
+    color: black;   
+}
